@@ -1,7 +1,32 @@
+b.one
+{
+    font-size: 6em;
+    font-family: Garamond, Times, Serif;
+    color: #F7DF96;
+}
+
 li.one
 {
         display: inline-block;
         margin: 10px;
         list-style: none;
-        border: 6px ridge red
+        border: 6px ridge #980efc;
+        background-color: #eb85fd;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+}
+
+li.one:hover
+{
+   background-color: #dd0069;
+}
+
+a.one:link 
+{
+    color:#980efc;
+}
+
+a.one:hover
+{
+    color:#ffc20f;
 }
