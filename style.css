@@ -1,0 +1,44 @@
+div.one
+{
+    font-size: 6em;
+    font-family: Garamond, Times, Serif;
+    color: #F7DF96;
+    border: 20px dotted #c4f01b;
+    margin: 30px;
+    width: 66%;
+}
+
+div.one:hover
+{
+    color: #c4f01b;
+    border: 20px dotted #F7DF96;
+}
+
+li.one
+{
+        display: inline-block;
+        margin: 10px;
+        width: fit-content;
+        overflow: hidden;
+        list-style: none;
+        border: 6px ridge #980efc;
+        border-radius: 25px 5px 25px 5px;
+        background-color: #eb85fd;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+}
+
+li.one:hover
+{
+   background-color: #dd0069;
+}
+
+a.one:link 
+{
+    color:#980efc;
+}
+
+a.one:hover
+{
+    color:#ffc20f;
+}
