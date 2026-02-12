@@ -1,0 +1,7 @@
+li.one
+{
+        display: inline-block;
+        margin: 10px;
+        list-style: none;
+        border: 6px ridge red
+}
